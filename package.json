@@ -1,13 +1,13 @@
 {
-  "name": "socket",
+  "name": "socketio-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using socket.io with nodejs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "mariomoreno",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
