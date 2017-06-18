@@ -13,9 +13,5 @@ io.on('connection', function (socket) {
   console.log('Un cliente se ha conectado');
 
   socket.emit('news', [ "Hi, Im Mario Moreno.", "I am Creative.", "I Love Design.", "I Love to Develop." ]);
-
-  /*socket.on('my other event', function (data) {
-    console.log(data);
-  });*/
-
+  
 });
