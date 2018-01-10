@@ -1,2 +1,3 @@
-# Socket.io nodejs
-Example using socketio with nodejs
+# Nodejs with socket.io
+
+Example using socket.io with nodejs
